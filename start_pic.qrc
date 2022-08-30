@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>3648482.png</file>
+    <file>images/page4_background.jpg</file>
+  </qresource>
+</RCC>
